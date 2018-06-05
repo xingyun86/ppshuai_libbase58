@@ -20,7 +20,6 @@
 #define DLL_EXPORT extern "C" _declspec(dllimport)
 #endif // !DLL_EXPORT
 
-#include "allocators.h"
 #include <string>
 #include <vector>
 
